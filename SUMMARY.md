@@ -1,3 +1,3 @@
 # Table of contents
 
-* [shuoming](README.md)
+* [playcover中文说明书](README.md)
